@@ -143,3 +143,15 @@ Contributions welcome! Fork the repo, create a feature branch, and open a pull r
 ---
 ## License
 This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
+
+---
+
+👨‍💻 Author
+
+**Mahima Paseda**
+
+- GitHub: @mahimapaseda
+
+**📞 Support**
+
+For support, email mahimapaseda@example.com or create an issue on GitHub.
