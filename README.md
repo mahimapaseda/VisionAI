@@ -1,8 +1,6 @@
 # VisionAI – Real-Time AI Camera Detection & Analytics
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=header&text=Mahima%20Paseda%20Kusumsiri&fontSize=40&fontAlignY=35&animation=twinkling&fontColor=fff" width="100%"/>
-</div>
 
 ## 🚀 Overview
 VisionAI is a Python-based smart camera application offering:
