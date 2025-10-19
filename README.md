@@ -26,7 +26,7 @@ Experience live AI detection: **[GitHub Repo](https://github.com/mahimapaseda/Vi
 
 ### 🎥 Video Demo
 
-> **📹 [Watch Full Demo](./video.mp4)** – Explore VisionAI features: live object detection, face blurring, motion alerts, and the Pro analytics dashboard.
+> **📹 [Watch Full Demo](./video.gif)** – Explore VisionAI features: live object detection, face blurring, motion alerts, and the Pro analytics dashboard.
 
 **Demo Highlights:**
 
