@@ -34,7 +34,6 @@ Experience live AI detection: **[GitHub Repo](https://github.com/mahimapaseda/Vi
 - 👁️ Privacy blurring of faces on demand
 - 🏃 Highlighted motion regions with area-based alerts
 - 🤚 Gesture controls and pose skeleton overlay
-- 🎤 Voice-controlled capture and toggles
 - 📊 Exportable CSV log from the analytics panel
 
 ---
